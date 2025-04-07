@@ -71,7 +71,4 @@ python main.py -q "Explain vector databases" -n 3 -m "text-embedding-3-small"
 
 - Your Name (jaro@nowapp.cz)
 
-## License
-
-Specify your project's license here (e.g., MIT License).
 
