@@ -10,7 +10,7 @@ def parse_args():
 
     parser.add_argument('-t', '--table', type=str, required=False,
                         default='embeddings',
-                        help='Table name where embedding column exisis.')
+                        help='Table name where embedding column exists.')
 
     parser.add_argument('-f', '--fields', type=str, required=False,
                         default='id, file, page, position, text_chunk',

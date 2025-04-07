@@ -1,4 +1,3 @@
-import argparse
 from arguments import parse_args, get_env
 from get_from_db import get_chunks
 
