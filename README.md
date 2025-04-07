@@ -69,6 +69,6 @@ python main.py -q "Explain vector databases" -n 3 -m "text-embedding-3-small"
 
 ## Author
 
-- Your Name (jaro@nowapp.cz)
+- Jaro Cech (jaro@nowapp.cz)
 
 
