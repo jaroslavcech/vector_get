@@ -69,7 +69,7 @@ python main.py -q "Explain vector databases" -n 3 -m "text-embedding-3-small"
 
 ## Author
 
-- Your Name (youremail@example.com)
+- Your Name (jaro@nowapp.cz)
 
 ## License
 
