@@ -66,9 +66,10 @@ The script returns a JSON-formatted list of matching text chunks sorted by simil
 ```bash
 python main.py -q "Explain vector databases" -n 3 -m "text-embedding-3-small"
 ```
+## License
+This project is provided as-is without warranty. You are free to modify and distribute under your own terms.
 
 ## Author
-
 - Jaro Cech (jaro@nowapp.cz)
 
 
